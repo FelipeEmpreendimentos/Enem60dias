@@ -101,7 +101,7 @@ export default function Home() {
           <div className="hero-visual" aria-label="Apresentação do material Redação 60D PRO">
             <div className="cover-shadow" />
             <div className="cover-card">
-              <img src="/redacao-60d-pro-cover.png" alt="Capa do Redação 60D PRO" />
+              <img src="redacao-60d-pro-cover.png" alt="Capa do Redação 60D PRO" />
               <span className="cover-edge" />
             </div>
             <div className="floating-card floating-card-top">
